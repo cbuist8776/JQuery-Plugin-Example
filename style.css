@@ -1,0 +1,14 @@
+/*
+ORANGE = #ed552b;
+BLACK  = #010001;
+*/
+body,input,section,div,span,pre,a,ul,li{font-family:book;
+    margin:0;
+    padding:0;
+    text-decoration:none;
+    list-style-type:none;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-tap-highlight-color: transparent;}
+body{background:white;
+	margin-top:70px;}
+.n{display:none;}
